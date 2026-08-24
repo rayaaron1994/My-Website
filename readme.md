@@ -1,13 +1,1 @@
-# Aaron's First Website
-
-This is my first website project.
-
-## About Me
-
-My name is Aaron and I'm learning GitHub, Python, SQL, Power BI, and more
-
-## Goals
-
-- Get my first analyst role
-- Build projects
-- Learn web development
+An early HTML project I built while learning web development, GitHub, and basic page structure. This repo documents one of my first hands-on coding projects and the beginning of my technical learning journey.
